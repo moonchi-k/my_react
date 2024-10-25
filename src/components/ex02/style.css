@@ -1,0 +1,30 @@
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: salmon;
+    margin-bottom: 30px;
+    /* float: left; */
+    margin-right: 20px;
+}
+
+.con {
+    width: 200px;
+    height: 100px;
+    border: 1px solid salmon;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.wrap {
+    width: 900px;
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    background-color: teal;
+
+}
+
+span {
+    color:rgb(211, 179, 0)
+}

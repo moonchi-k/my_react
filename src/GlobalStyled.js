@@ -6,4 +6,8 @@ export const GlobalStyled = createGlobalStyle`
     *{
         box-sizing: border-box;
     }
+    a {
+        color: white;
+        text-decoration: none;
+    }
 `;
